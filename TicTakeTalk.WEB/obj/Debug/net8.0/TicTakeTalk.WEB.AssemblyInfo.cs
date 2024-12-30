@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TicTakeTalk.WEB")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TicTakeTalk.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("TicTakeTalk.WEB")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TicTakeTalk.WEB")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a6767351e773d22a611f79f57f423e655e6d144")]
+[assembly: System.Reflection.AssemblyProductAttribute("TicTakeTalk.Web")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TicTakeTalk.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
