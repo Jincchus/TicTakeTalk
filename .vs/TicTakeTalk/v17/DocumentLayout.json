@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\TicTakeTalk\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5099089-5AED-4F16-A835-8E9BC8E29820}|TicTakeTalk.Infrastructure\\TicTakeTalk.Infrastructure.csproj|c:\\tictaketalk\\tictaketalk.infrastructure\\tictaketalk.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5099089-5AED-4F16-A835-8E9BC8E29820}|TicTakeTalk.Infrastructure\\TicTakeTalk.Infrastructure.csproj|solutionrelative:tictaketalk.infrastructure\\tictaketalk.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B01C51-79AC-4217-99D5-E14C67800571}|TicTakeTalk.Core\\TicTakeTalk.Core.csproj|c:\\tictaketalk\\tictaketalk.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B01C51-79AC-4217-99D5-E14C67800571}|TicTakeTalk.Core\\TicTakeTalk.Core.csproj|solutionrelative:tictaketalk.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1294,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 69,
           "Children": [
             {
               "$type": "Bookmark",
@@ -286,6 +295,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicTakeTalk.Infrastructure",
+              "DocumentMoniker": "C:\\TicTakeTalk\\TicTakeTalk.Infrastructure\\TicTakeTalk.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TicTakeTalk.Infrastructure\\TicTakeTalk.Infrastructure.csproj",
+              "ToolTip": "C:\\TicTakeTalk\\TicTakeTalk.Infrastructure\\TicTakeTalk.Infrastructure.csproj",
+              "RelativeToolTip": "TicTakeTalk.Infrastructure\\TicTakeTalk.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T07:58:11.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TicTakeTalk\\TicTakeTalk.Core\\Program.cs",
+              "RelativeDocumentMoniker": "TicTakeTalk.Core\\Program.cs",
+              "ToolTip": "C:\\TicTakeTalk\\TicTakeTalk.Core\\Program.cs",
+              "RelativeToolTip": "TicTakeTalk.Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:55:03.633Z",
+              "EditorCaption": ""
             }
           ]
         },
